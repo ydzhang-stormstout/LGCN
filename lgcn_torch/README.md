@@ -18,7 +18,7 @@ A recipe about installing the requirements is provided in `install.sh`.
 
 ### ```train.py```
 
-This script trains models for link prediction tasks. 
+This script trains models for link prediction tasks. Please refer TensorFlow version for node classification task.
 
 ```
 optional arguments:
